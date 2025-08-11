@@ -7,3 +7,31 @@
   "properties": 
     "files": [],
 }
+{
+  "name": "Mijn NFT Naam",
+  "symbol": "MNFT",
+  "description": "Beschrijving van mijn NFT",
+  "seller_fee_basis_points": 500,
+  "image": "https://gateway.pinata.cloud/ipfs/<your_image_hash>",
+  "attributes": [
+    {
+      "trait_type": "Kleur",
+      "value": "Blauw"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://gateway.pinata.cloud/ipfs/<your_image_hash>",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "<jouw_wallet_adres>",
+        "share": 100
+      }
+    ]
+  }
+}
