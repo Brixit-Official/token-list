@@ -6,7 +6,7 @@ const { programs, actions } = require('@metaplex-foundation/mpl-token-metadata')
 async function main() {
   const mintAddress = new PublicKey('FbMR5Le1Dq1paWPDqBGook3BEDsfsnqHzSukXha294KD');
   const metadataUri = 'https://gateway.pinata.cloud/ipfs/'bafkreicp44eoyfvu4gra2ets27dxcja56gn3yrtz7drt2v5nrppussmedq';
-  const keypairPath = '<pad_naar_keypair_json>';
+  const keypairPath = '/root/.config/solana/id.json';
 
   const secret = JSON.parse(fs.readFileSync(keypairPath, 'utf8'));
   const keypair = Keypair.fromSecretKey(Buffer.from(secret));
