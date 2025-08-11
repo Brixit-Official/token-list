@@ -4,19 +4,15 @@ const { Connection, Keypair, PublicKey, clusterApiUrl } = require('@solana/web3.
 const { programs, actions } = require('@metaplex-foundation/mpl-token-metadata');
 
 async function main() {
-  // Vul hier je waarden in
-  const mintAddress = new PublicKey('<jouw_mint_adres>');
+  const mintAddress = new PublicKey('FbMR5Le1Dq1paWPDqBGook3BEDsfsnqHzSukXha294KD');
   const metadataUri = 'https://gateway.pinata.cloud/ipfs/<jouw_json_hash>';
   const keypairPath = '<pad_naar_keypair_json>';
 
-  // Lees je keypair in
   const secret = JSON.parse(fs.readFileSync(keypairPath, 'utf8'));
   const keypair = Keypair.fromSecretKey(Buffer.from(secret));
 
-  // Maak verbinding met devnet/mainnet (pas aan indien nodig)
   const connection = new Connection(clusterApiUrl('mainnet-beta'));
 
-  // Update metadata via Metaplex SDK
   await actions.updateMetadata({
     connection,
     wallet: {
@@ -34,7 +30,6 @@ async function main() {
     metadata: new PublicKey(mintAddress),
     metadataData: {
       uri: metadataUri,
-      // Vul eventueel meer metadata velden in als je wil
     }
   });
 
