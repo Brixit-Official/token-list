@@ -2,34 +2,25 @@
   "name": "Brixit",
   "symbol": "BXT",
   "description": "A protest in code. A token of defiance...",
-  "image": "https://bronze-occupational-gayal-459.mypinata.cloud/ipfs/bafkreihkzdwhunvphqcjlba6c6acjzej2uf5cr24v4mjemg4l2gh2udeua",
-  "attributes": [],
-  "properties": 
-    "files": [],
-}
-{
-  "name": "Mijn NFT Naam",
-  "symbol": "MNFT",
-  "description": "Beschrijving van mijn NFT",
   "seller_fee_basis_points": 500,
-  "image": "https://gateway.pinata.cloud/ipfs/<your_image_hash>",
+  "image": "https://bronze-occupational-gayal-459.mypinata.cloud/ipfs/bafkreihkzdwhunvphqcjlba6c6acjzej2uf5cr24v4mjemg4l2gh2udeua",
   "attributes": [
     {
-      "trait_type": "Kleur",
-      "value": "Blauw"
+      "trait_type": "colour",
+      "value": "red"
     }
   ],
   "properties": {
     "files": [
       {
-        "uri": "https://gateway.pinata.cloud/ipfs/<your_image_hash>",
-        "type": "image/png"
+        "uri": "https://gateway.pinata.cloud/ipfs/bafkreihkzdwhunvphqcjlba6c6acjzej2uf5cr24v4mjemg4l2gh2udeua",
+        "type": "logo/png"
       }
     ],
     "category": "image",
     "creators": [
       {
-        "address": "<jouw_wallet_adres>",
+        "address": "FbMR5Le1Dq1paWPDqBGook3BEDsfsnqHzSukXha294KD",
         "share": 100
       }
     ]
