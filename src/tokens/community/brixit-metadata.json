@@ -1,24 +1,20 @@
 {
   "name": "Brixit",
   "symbol": "BXT",
-  "description": "Brixit is a community-driven token on Solana.",
-  "image": "https://gateway.pinata.cloud/ipfs/<HASH_VAN_LOGO>",
-  "external_url": "https://brixit.io",
+  "description": "Brixit is een community-driven token op Solana.",
+  "image": "https://gateway.pinata.cloud/ipfs/<JOUW_LOGO_HASH>",
+  "extensions": {
+    "website": "https://x.com/<JOUW_X_HANDLE>"
+  },
   "seller_fee_basis_points": 0,
-  "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://gateway.pinata.cloud/ipfs/<HASH_VAN_LOGO>",
+        "uri": "https://gateway.pinata.cloud/ipfs/<JOUW_LOGO_HASH>",
         "type": "image/png"
       }
     ],
     "category": "image",
-    "creators": [
-      {
-        "address": "<JOUW_SOLANA_ADRES>",
-        "share": 100
-      }
-    ]
+    "creators": []
   }
 }
