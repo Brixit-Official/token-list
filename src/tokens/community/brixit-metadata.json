@@ -1,26 +1,22 @@
 {
   "name": "Brixit",
   "symbol": "BXT",
-  "description": "A protest in code. A token of defiance...",
-  "seller_fee_basis_points": 500,
-  "image": "https://bronze-occupational-gayal-459.mypinata.cloud/ipfs/bafkreihkzdwhunvphqcjlba6c6acjzej2uf5cr24v4mjemg4l2gh2udeua",
-  "attributes": [
-    {
-      "trait_type": "colour",
-      "value": "red"
-    }
-  ],
+  "description": "Brixit is a community-driven token on Solana.",
+  "image": "https://gateway.pinata.cloud/ipfs/<HASH_VAN_LOGO>",
+  "external_url": "https://brixit.io",
+  "seller_fee_basis_points": 0,
+  "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://gateway.pinata.cloud/ipfs/bafkreiffxzljvfbljojpcysrkjeq3tdrtkox4fzw74d2c3duukmjdv22fm",
-        "type": "logo/png"
+        "uri": "https://gateway.pinata.cloud/ipfs/<HASH_VAN_LOGO>",
+        "type": "image/png"
       }
     ],
     "category": "image",
     "creators": [
       {
-        "address": "FbMR5Le1Dq1paWPDqBGook3BEDsfsnqHzSukXha294KD",
+        "address": "<JOUW_SOLANA_ADRES>",
         "share": 100
       }
     ]
