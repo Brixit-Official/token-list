@@ -6,7 +6,7 @@
   "extensions": {
     "website": "https://github.com/Brixit-Official"
   },
-  "seller_fee_basis_points": 0,
+  "seller_fee_basis_points": 500,
   "properties": {
     "files": [
       {
@@ -15,6 +15,11 @@
       }
     ],
     "category": "image",
-    "creators": []
+    "creators": [
+      {
+        "address": "<JE_WALLET_ADRES>",
+        "share": 100
+      }
+    ]
   }
 }
