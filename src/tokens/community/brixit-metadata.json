@@ -10,14 +10,14 @@
   "properties": {
     "files": [
       {
-        "uri": "https://gateway.pinata.cloud/ipfs/bafkreifa6dl5ows6l5jwwx4jmzxv6jewtyo5nhbhl4m35dwwbperysmsbu",
+        "uri": "https://gateway.pinata.cloud/ipfs/bafkreihkzdwhunvphqcjlba6c6acjzej2uf5cr24v4mjemg4l2gh2udeua",
         "type": "image/png"
       }
     ],
     "category": "image",
     "creators": [
       {
-        "address": "FbMR5Le1Dq1paWPDqBGook3BEDsfsnqHzSukXha294KD",
+        "address": "EqPfniBbr2NT6gwH6yMnrAArH9tNiFKAXFR2DiS2bDUA",
         "share": 100
       }
     ]
