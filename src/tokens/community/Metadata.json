@@ -2,16 +2,27 @@
   "name": "Brixit",
   "symbol": "BXT",
   "description": "A protest in code. A token of defiance...",
-  "image": "https://raw.githubusercontent.com/Brixit-Official/token-list/main/assets/mainnet/FbMR5Le1Dq1paWPDqBGook3BEDsfsnqHzSukXha294KD/logo.png",
-  "attributes": [],
+  "image": "https://bronze-occupational-gayal-459.mypinata.cloud/ipfs/bafkreihkzdwhunvphqcjlba6c6acjzej2uf5cr24v4mjemg4l2gh2udeua",
+  "seller_fee_basis_points": 250,
+  "attributes": [
+    { "trait_type": "type", "value": "protest" },
+    { "trait_type": "rarity", "value": "unique" },
+    { "trait_type": "goal", "value": "charity" },
+    { "trait_type": "token_supply", "value": "10000000" }
+  ],
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/Brixit-Official/token-list/main/assets/mainnet/FbMR5Le1Dq1paWPDqBGook3BEDsfsnqHzSukXha294KD/logo.png",
+        "uri": "https://bronze-occupational-gayal-459.mypinata.cloud/ipfs/bafkreihkzdwhunvphqcjlba6c6acjzej2uf5cr24v4mjemg4l2gh2udeua",
         "type": "image/png"
       }
     ],
     "category": "image",
-    "creators": null
+    "creators": [
+      {
+        "address": "EqPfniBbr2NT6gwH6yMnrAArH9tNiFKAXFR2DiS2bDUA",
+        "share": 100
+      }
+    ]
   }
 }
