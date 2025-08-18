@@ -1,23 +1,30 @@
 {
   "name": "Brixit",
   "symbol": "BXT",
-  "description": "Brixit is a community-driven token on Solana.",
-  "image": "https://gateway.pinata.cloud/ipfs/bafkreihkzdwhunvphqcjlba6c6acjzej2uf5cr24v4mjemg4l2gh2udeua",
-  "extensions": {
-    "website": "https://github.com/Brixit-Official"
-  },
+  "description": "Brixit is a community-driven token project.",
+  "image": "https://raw.githubusercontent.com/Brixit-Official/token-list/main/src/tokens/community/logo.png",
   "seller_fee_basis_points": 500,
+  "attributes": [
+    {
+      "trait_type": "Project",
+      "value": "Brixit"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "BXT"
+    }
+  ],
   "properties": {
     "files": [
       {
-        "uri": "https://gateway.pinata.cloud/ipfs/bafkreihkzdwhunvphqcjlba6c6acjzej2uf5cr24v4mjemg4l2gh2udeua",
+        "uri": "https://raw.githubusercontent.com/Brixit-Official/token-list/main/src/tokens/community/logo.png",
         "type": "image/png"
       }
     ],
     "category": "image",
     "creators": [
       {
-        "address": "EqPfniBbr2NT6gwH6yMnrAArH9tNiFKAXFR2DiS2bDUA",
+        "address": "JOUW_WALLET_PUBKEY_HIER",
         "share": 100
       }
     ]
