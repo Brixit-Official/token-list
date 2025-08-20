@@ -1,32 +1,23 @@
 {
-  "name": "Brixit",
+  "name": "BRIXIT",
   "symbol": "BXT",
-  "description": "Brixit is a community-driven token project.",
-  "image": "https://raw.githubusercontent.com/Brixit-Official/token-list/main/src/tokens/community/logo.png",
-  "seller_fee_basis_points": 500,
+  "description": "Brixit Coin is a Solana-based token powering the Brixit ecosystem. A protest in code. A token of defiance. ",
+  "image": "https://bronze-occupational-gayal-459.mypinata.cloud/ipfs/bafkreie3aji3aanquub6z4jkrr5aokrnecw3277xpmvbbluxzl3ppeiemm",
   "attributes": [
     {
       "trait_type": "Project",
       "value": "Brixit"
     },
     {
-      "trait_type": "Symbol",
-      "value": "BXT"
+      "trait_type": "Network",
+      "value": "Solana Mainnet"
+    },
+    {
+      "trait_type": "Token Type",
+      "value": "Fungible Token (SPL)"
     }
   ],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/Brixit-Official/token-list/main/src/tokens/community/logo.png",
-        "type": "image/png"
-      }
-    ],
-    "category": "image",
-    "creators": [
-      {
-        "address": "JOUW_WALLET_PUBKEY_HIER",
-        "share": 100
-      }
-    ]
+  "extensions": {
+    "twitter": "https://twitter.com/Brixit_Official",
   }
 }
