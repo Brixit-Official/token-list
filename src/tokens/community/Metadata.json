@@ -2,7 +2,7 @@
   "name": "Brixit",
   "symbol": "BXT",
   "description": "A protest in code. A token of defiance...",
-  "image": "https://bronze-occupational-gayal-459.mypinata.cloud/ipfs/bafkreihkzdwhunvphqcjlba6c6acjzej2uf5cr24v4mjemg4l2gh2udeua",
+  "image": "https://bronze-occupational-gayal-459.mypinata.cloud/ipfs/bafkreie3aji3aanquub6z4jkrr5aokrnecw3277xpmvbbluxzl3ppeiemm",
   "seller_fee_basis_points": 250,
   "attributes": [
     { "trait_type": "type", "value": "protest" },
@@ -13,14 +13,14 @@
   "properties": {
     "files": [
       {
-        "uri": "https://bronze-occupational-gayal-459.mypinata.cloud/ipfs/bafkreihkzdwhunvphqcjlba6c6acjzej2uf5cr24v4mjemg4l2gh2udeua",
+        "uri": "https://bronze-occupational-gayal-459.mypinata.cloud/ipfs/bafkreie3aji3aanquub6z4jkrr5aokrnecw3277xpmvbbluxzl3ppeiemm",
         "type": "image/png"
       }
     ],
     "category": "image",
     "creators": [
       {
-        "address": "EqPfniBbr2NT6gwH6yMnrAArH9tNiFKAXFR2DiS2bDUA",
+        "address": "EG3R5pUHQHTy7rQDB8zd2ZjHt1Y9Vw6wNhaj72i2oPLU",
         "share": 100
       }
     ]
